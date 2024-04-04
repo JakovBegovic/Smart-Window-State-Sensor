@@ -3,7 +3,7 @@ IoT projekt orijentiran na povezivanje raznih uređaja putem MS Azure platforme.
 <br>
 Mapa DistanceMeasurer sadrži kod za Dasduino CONNECTPLUS mikrokontroler. Mape FunctionAppIoTHubTrigger i FunctionAppTimerTrigger sadrže kodove za Azure Function App-ove. Mapa WindowGuardControl sadrži kod za Android mobilni uređaj. <br>
 Projekt je razvijen u svrhu kolegija Razvoj umreženih sustava.<br>
-Posebne zahvale mentoru projekta asistentu mag. ing. Lovri Posariću na izdašnoj pomoći i neprestanoj dostupnosti.
+Posebne zahvale mentoru projekta asistentu mag. inf. Lovri Posariću na izdašnoj pomoći i neprestanoj dostupnosti.
 
 <br><br>
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
