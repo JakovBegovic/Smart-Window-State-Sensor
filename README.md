@@ -1,5 +1,8 @@
 # Smart-window-state-sensor
-IoT projekt orijentiran na povezivanje raznih uređaja putem MS Azure platforme.
+IoT projekt orijentiran na povezivanje raznih uređaja putem MS Azure platforme. Projekt je potanko objašnjen u popratnoj dokumentaciji.
+<br>
+Mapa DistanceMeasurer sadrži kod za Dasduino CONNECTPLUS mikrokontroler. Mape FunctionAppIoTHubTrigger i FunctionAppTimerTrigger sadrže kodove za Azure Function App-ove. Mapa WindowGuardControl sadrži kod za Android mobilni uređaj. <br>
+
 
 <br><br>
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
